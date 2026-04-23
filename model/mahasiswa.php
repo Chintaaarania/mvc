@@ -3,6 +3,6 @@ class Mahasiswa
 {
     public function getData()
     {
-        return ["Chinta", "Prayu", "Ariqoh"];
+        return ["Rahma", "Prayu", "Ariqoh"];
     }
 }
